@@ -1,0 +1,1 @@
+To start the program type ./FEIDIAS in a terminal in this folder
